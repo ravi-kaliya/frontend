@@ -1,0 +1,122 @@
+[
+  {
+    "image": "https://source.unsplash.com/800x600/?beach",
+    "location": "Asia, Afghanistan",
+    "type": "Beachfront",
+    "price": "₹ 50",
+    "hostImage": "https://source.unsplash.com/800x600/?person",
+    "email": "admin0@gmail.com"
+  },
+  {
+    "image": "https://source.unsplash.com/800x600/?castle",
+    "location": "Americas, United States",
+    "type": "Castles",
+    "price": "₹ 470",
+    "hostImage": "https://source.unsplash.com/800x600/?person",
+    "email": "admin1@gmail.com"
+  },
+  {
+    "image": "https://source.unsplash.com/800x600/?cabin",
+    "location": "Americas, Canada",
+    "type": "Cabin",
+    "price": "₹ 230",
+    "hostImage": "https://source.unsplash.com/800x600/?person",
+    "email": "admin2@gmail.com"
+  },
+  {
+    "image": "https://source.unsplash.com/800x600/?mountains",
+    "location": "Europe, Switzerland",
+    "type": "Rustic",
+    "price": "₹ 350",
+    "hostImage": "https://source.unsplash.com/800x600/?person",
+    "email": "admin3@gmail.com"
+  },
+  {
+    "image": "https://source.unsplash.com/800x600/?romantic",
+    "location": "Europe, Iceland",
+    "type": "Romantic",
+    "price": "₹ 650",
+    "hostImage": "https://source.unsplash.com/800x600/?person",
+    "email": "admin4@gmail.com"
+  },
+  {
+    "image": "https://source.unsplash.com/800x600/?beach",
+    "location": "Asia, Afghanistan",
+    "type": "Beachfront",
+    "price": "₹ 50",
+    "hostImage": "https://source.unsplash.com/800x600/?person",
+    "email": "admin5@gmail.com"
+  },
+  {
+    "image": "https://source.unsplash.com/800x600/?castle",
+    "location": "Americas, United States",
+    "type": "Castles",
+    "price": "₹ 470",
+    "hostImage": "https://source.unsplash.com/800x600/?person",
+    "email": "admin6@gmail.com"
+  },
+  {
+    "image": "https://source.unsplash.com/800x600/?cabin",
+    "location": "Americas, Canada",
+    "type": "Cabin",
+    "price": "₹ 230",
+    "hostImage": "https://source.unsplash.com/800x600/?person",
+    "email": "admin7@gmail.com"
+  },
+  {
+    "image": "https://source.unsplash.com/800x600/?mountains",
+    "location": "Europe, Switzerland",
+    "type": "Rustic",
+    "price": "₹ 350",
+    "hostImage": "https://source.unsplash.com/800x600/?person",
+    "email": "admin8@gmail.com"
+  },
+  {
+    "image": "https://source.unsplash.com/800x600/?romantic",
+    "location": "Europe, Iceland",
+    "type": "Romantic",
+    "price": "₹ 650",
+    "hostImage": "https://source.unsplash.com/800x600/?person",
+    "email": "admin9@gmail.com"
+  },
+  {
+    "image": "https://source.unsplash.com/800x600/?beach",
+    "location": "Asia, Afghanistan",
+    "type": "Beachfront",
+    "price": "₹ 50",
+    "hostImage": "https://source.unsplash.com/800x600/?person",
+    "email": "admin10@gmail.com"
+  },
+  {
+    "image": "https://source.unsplash.com/800x600/?castle",
+    "location": "Americas, United States",
+    "type": "Castles",
+    "price": "₹ 470",
+    "hostImage": "https://source.unsplash.com/800x600/?person",
+    "email": "admin11@gmail.com"
+  },
+  {
+    "image": "https://source.unsplash.com/800x600/?cabin",
+    "location": "Americas, Canada",
+    "type": "Cabin",
+    "price": "₹ 230",
+    "hostImage": "https://source.unsplash.com/800x600/?person",
+    "email": "admin12@gmail.com"
+  },
+  {
+    "image": "https://source.unsplash.com/800x600/?mountains",
+    "location": "Europe, Switzerland",
+    "type": "Rustic",
+    "price": "₹ 350",
+    "hostImage": "https://source.unsplash.com/800x600/?person",
+    "email": "admin13@gmail.com"
+  },
+  {
+    "image": "https://source.unsplash.com/800x600/?romantic",
+    "location": "Europe, Iceland",
+    "type": "Romantic",
+    "price": "₹ 650",
+    "hostImage": "https://source.unsplash.com/800x600/?person",
+    "email": "admin14@gmail.com"
+  }
+]
